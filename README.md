@@ -1,5 +1,6 @@
 # 👋 Hi, I’m Qiao Yang
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/qiao-yang-a2aa54228/) [![Twitter](https://img.shields.io/badge/Twitter-Handle-1DA1F2)](https://twitter.com/Qiao_Yang_) [![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/yqkiuo/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/qiao-yang-a2aa54228/) [![Twitter](https://img.shields.io/badge/Twitter-Handle-1DA1F2)](https://twitter.com/Qiao_Yang_) [![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/yqkiuo/)    
+
 Welcome to my GitHub profile! I'm passionate about bioinformatics, oncology research, and multi-omics analysis. I love building tools and collaborating on exciting research projects.
 
 ---
@@ -18,7 +19,6 @@ Welcome to my GitHub profile! I'm passionate about bioinformatics, oncology rese
 - **Intra-tumor heterogeneity**  
 - **Multi-omics data integration**  
 - **Cancer drug sensitivity analysis**  
-- **Machine learning in healthcare**  
 
 ---
 
